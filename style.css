@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+input {
+    margin: 5px;
+}
+
+h2{
+    position: relative;
+    margin-left: 29px;
+    margin-top: 48px;
+    margin-bottom: 14px;
+}
+
+
+.box{
+    display: flex;
+    margin-bottom: 16px;
+    margin-left: 29px;
+    
+}
+.lower{
+    margin-left: 29px;
+    margin-top: 22px;
+}
+
+button{
+    height: 32px;
+    width: 80px;
+    margin-left: 29px;
+    margin-bottom: 16px;
+}
+
+.in {
+    display: flex;
+    flex-direction: column;
+}
+
+table {
+    width: 50%;
+    margin-left: 29px;
+}
+#ark{
+    margin-left: 29px;
+    margin-top: 10px;
+}
